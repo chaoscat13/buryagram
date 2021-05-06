@@ -1,0 +1,40 @@
+Basic requirement to run this tool Download :
+
+Notepad++ : https://notepad-plus-plus.org/downloads/
+Python : https://www.python.org/downloads/
+Module Required : Open PowerShell in Administrator Mode and Type
+ 
+	" pip install telethon "  
+	" pip install pyrogram " 
+	" pip install colorama " 
+	" pkg install toilet "
+
+
+
+---------------------------------------------------------
+
+Step 1.Open sessions.txt File in Notepad++ and then Enter your Telegram numbers with their API ID & API HASH.
+
+ For examples :-👇👇👇👇👇👇👇
+1 1595475 3b107f3e83a3d8f043c35f1800e7188b +12694822177
+2 1996344 f60ebae65219fc658b895d7129558a54 +19164314211
+3 1983278 6d792ff813739be871a131c25d2b5d6b +19165736323
+4 1846411 1ba5b1b46d1ff8ayefda70a9b2cbc6c0 +184789975492
+
+Step 2.Now open login.py for making sessions.
+
+Step 3. then after open scraper.py for scrap members from destination groups.
+
+Step 4.when you done scrapping members add them with add.py
+
+Step 5.it will ask for 2 options choose according to your need.
+
+Step 6. Finally enter your group name in which you want to add people. In 5 seconds you'll see the members start adding.
+
+--------------------------------------------------------------------------------------
+
+Contact :-
+telegram.me/daredevilkinng
+github.com/daredevilkinng
+
+--------------------------------------------------------------------------------------
